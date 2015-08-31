@@ -502,7 +502,7 @@ UsedLibrary="C:/EAGLE-7.3.0/lbr/eagle_lbr-master/wirepad_ext.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="101 140 908 607"
+Loc="81 62 964 461"
 State=2
 Number=0
 
